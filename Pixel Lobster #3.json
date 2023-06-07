@@ -1,0 +1,53 @@
+{
+    "name": " Pixel Lobster #3",
+    "description": "A lil Lobster, in love with freedom and equality, who decided to take up arms with its 999 others friends.",
+    "image": "Pixel Lobster #3.png",
+    "edition": 3,
+    "seller_fee_basis_points": 750,
+    "collection": {
+        "name": "Pixel Lobster",
+        "family": "Pixel Lobster"
+    },
+    "symbol": "PLB",
+    "properties": {
+        "files": [
+            {
+                "uri": "Pixel Lobster #3.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "DEJ37BVZH2HD6E3CPKEEVCOQTSYII74GHALU5LBVYE6STMCISK3P4ZMVUE",
+                "share": 100
+            }
+        ]
+    },
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Kaki"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Yellow Crown"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Playful mouth"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "Golden Hand"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Orange eyes"
+        }
+    ]
+}
